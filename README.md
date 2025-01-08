@@ -1,2 +1,3 @@
--``pip install pyqt5``
--``python bouncy.py``
+``pip install pyqt5``
+\n
+``python bouncy.py``
